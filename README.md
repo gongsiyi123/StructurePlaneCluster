@@ -1,9 +1,10 @@
 ## 主要内容
 包括一些结构面聚类算法的简单实现，目前实现的有：
-+ k-means
-+ dbscan
-+ affinity propagation
-+ gaussion mixture
++ k-Means
++ DBSCAN
++ Affinity Propagation
++ Gaussion Mixture
++ AGNES
 
 代码只实现了算法，未做任何优化，数据量大时某些算法会非常慢
 ## 使用方法
